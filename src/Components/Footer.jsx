@@ -17,7 +17,7 @@ const Footer = () => {
        <a href="mailto:ktmijohn123@gmail.com" className='hover:underline hover:text-red-400' > <p className=' flex gap-4'> <FaEnvelope className='md:size-5'/> <span className='md:text-xl'>- ktimijohn123@gmail.com</span></p></a>
     </div>
     <div className='flex items-center  mt-3 gap-4  justify-around'>
-       <a href="https://www.linkedin.com/in/timileyin-kehindetimicreates/"> <FaLinkedin className='size-5  hover:animate-bounce md:size-7'/></a>  <a href="https://github.com/Timicreates"> <FaGithub className='hover:animate-bounce size-5 md:size-7'/></a><a href="https://x.com/forlife_timi"> <FaTwitter className='hover:animate-bounce size-5 md:size-7'/></a>
+       <a href="https://www.linkedin.com/in/timileyin-kehinde-240796367/"> <FaLinkedin className='size-5  hover:animate-bounce md:size-7'/></a>  <a href="https://github.com/Timicreates"> <FaGithub className='hover:animate-bounce size-5 md:size-7'/></a><a href="https://x.com/forlife_timi"> <FaTwitter className='hover:animate-bounce size-5 md:size-7'/></a>
     </div>
 
    </motion.footer>
