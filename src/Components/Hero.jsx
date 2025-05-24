@@ -24,7 +24,7 @@ const Hero = () => {
      whileInView="show"
       className='md:py-22 md:px-18 px-4 py-8    mx-auto'>
         <buttton className=" border-2 border-blue-800 md:text-3xl text-2xl py-2 px-6  mt-0 md:py-4 md:px-12
-         hover:text-white hover:bg-blue-800 transition-all font-display rounded-full"><a href="https://drive.google.com/file/d/1ntMVV1P7qZoF8n4mZ4yQ5q_sCYdXT0IQ/view?usp=sharing">
+         hover:text-white hover:bg-blue-800 transition-all font-display rounded-full"><a href="https://drive.google.com/file/d/16QD16_9mERQonkYUC9Fq59BckLfgzelN/view?usp=sharing">
             Résumé</a></buttton>
     </motion.div>
     </> 
