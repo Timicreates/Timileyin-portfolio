@@ -45,7 +45,7 @@ const Hero = () => {
           className=" border-2 border-blue-800 md:text-3xl text-2xl py-2 px-6  mt-0 md:py-4 md:px-12
          hover:text-white hover:bg-blue-800 transition-all font-display rounded-full"
         >
-          <a href="https://drive.google.com/file/d/1cfBGFjTUz8fEpSbdS_qdGuvkyzP0nkfT/view?usp=sharing">
+          <a href="https://drive.google.com/file/d/1mGMqn4TSeyAEuez02qPi41AcNvh16938/view?usp=sharing">
             Résumé
           </a>
         </buttton>
