@@ -24,7 +24,7 @@ const Hero = () => {
           className="font-display text-2xl md:text-4xl md:leading-14"
         >
           I am <span className="text-blue-600">Kehinde Timileyin</span> , a{" "}
-          <span className="text-blue-700">Frontend developer</span> with over 2
+          <span className="text-blue-700">Frontend developer</span> with over 3
           years of experience, proficient in building software with the
           following technologies,{" "}
           <span className="text-blue-600">
