@@ -50,10 +50,10 @@ const Footer = () => {
           {" "}
           <FaGithub className="hover:scale-105 transition-all size-5 md:size-7" />
         </a>
-        <a href="https://x.com/forlife_timi">
+        {/* <a href="https://x.com/forlife_timi">
           {" "}
           <FaTwitter className="hover:scale-105 transition-all size-5 md:size-7" />
-        </a>
+        </a> */}
       </div>
     </motion.footer>
   );
