@@ -11,7 +11,7 @@ const Techimages = () => {
     sm:items-center items-start">
         <div className="w-[300px] shrink-0 px-4 text-gray-600 border-l-4 border-blue-500 bg-white 
         z-10 sm:text-base text-xl font-semibold text-left"> 
-            Proud Frontend developer <br /> With knowldege of the following 
+            Proud Fullstack developer <br /> With knowldege of the following 
         </div>
         <div className="flex animate-marquee whitespace-nowrap">
             {
